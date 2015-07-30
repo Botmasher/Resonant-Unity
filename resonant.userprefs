@@ -1,6 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test-scene-02/scripts/EndZone.cs">
+    <Files>
+      <File FileName="Assets/test-scene-02/scripts/TranslatorManager.cs" Line="28" Column="176" />
+      <File FileName="Assets/test-scene-02/scripts/PlayerMovement.cs" Line="21" Column="24" />
+      <File FileName="Assets/test-scene-02/scripts/EndZone.cs" Line="5" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

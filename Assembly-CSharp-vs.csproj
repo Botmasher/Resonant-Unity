@@ -46,17 +46,22 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BeatScript.cs" />
-     <Compile Include="Assets\CameraTriggerScript.cs" />
-     <Compile Include="Assets\KillTriggerScript.cs" />
-     <Compile Include="Assets\LazerExplosionScript.cs" />
-     <Compile Include="Assets\PlatformManager.cs" />
-     <Compile Include="Assets\TestScript.cs" />
-     <Compile Include="Assets\TestTriggerScript.cs" />
-     <Compile Include="Assets\_scripts\BulletScript.cs" />
-     <Compile Include="Assets\_scripts\GunScript.cs" />
-     <Compile Include="Assets\_scripts\LazerScript.cs" />
+     <Compile Include="Assets\_scripts\BeatScript.cs" />
+     <Compile Include="Assets\_scripts\PlatformManager.cs" />
      <Compile Include="Assets\_scripts\Player.cs" />
+     <Compile Include="Assets\_scripts\TestScript.cs" />
+     <Compile Include="Assets\_test-scripts\BulletScript.cs" />
+     <Compile Include="Assets\_test-scripts\CameraTriggerScript.cs" />
+     <Compile Include="Assets\_test-scripts\GunScript.cs" />
+     <Compile Include="Assets\_test-scripts\KillTriggerScript.cs" />
+     <Compile Include="Assets\_test-scripts\LazerExplosionScript.cs" />
+     <Compile Include="Assets\_test-scripts\LazerScript.cs" />
+     <Compile Include="Assets\_test-scripts\TestTriggerScript.cs" />
+     <Compile Include="Assets\test-scene-02\scripts\CameraTrigger.cs" />
+     <Compile Include="Assets\test-scene-02\scripts\EndZone.cs" />
+     <Compile Include="Assets\test-scene-02\scripts\PickupScript.cs" />
+     <Compile Include="Assets\test-scene-02\scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\test-scene-02\scripts\TranslatorManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
